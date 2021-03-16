@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Nova+Square&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Ravi Prakash", cursive;
+}
+
+h1 {
+  color: #313b72;
+  margin: 7rem 1rem;
+  text-align: center;
+}
+
+h3 {
+  color: #313b72;
+  margin: 8rem 1rem;
+  text-align: center;
+}
+
+.btn {
+  font-size: 2rem;
+  padding: 1rem;
+  text-align: center;
+  margin-right: 3rem;
+  margin-left: 3rem;
+  margin-top: 2rem;
+  text-decoration: none;
+  color: #313b72;
+  background: linear-gradient(90deg, #f3d9b1 0%, #f3d9b1 100%);
+  border-radius: 4px;
+}
+.btn:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 #f3d9b1;
+  transition: transform 150ms;
+  transform: scale(1.03);
+}
+btn:disabled:hover {
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+}

@@ -1,45 +1,85 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Food Quiz #
 
-Welcome USER_NAME,
+You need to eat food everyday to keep your body going. It is nice to know some interesting facts about food which is so necessary to grow, 
+play games and be healthy. Especially now with many of people spending the pandemic cooking up a storm in the kitchen.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# UX #
 
-## Gitpod Reminders
+The aim of project is to create interactive website quiz that would be fully responsive on all devices and screens. The quiz will target 
+people 18+, who is intrested in food. It should be easy to use and fun to play.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## User Stories: ##
+1. As a user, I would like to see clear instruction of the quiz.
+2. As a user, I would like to know if my answer is right.
+3. As a user, I would like to see my results in the end of quiz.
+4. As a user, I would like to be able to try again.
 
-`python3 -m http.server`
+Mockup
 
-A blue button should appear to click: *Make Public*,
+The live version of projet you can see [here.](website address will go here)
 
-Another blue button should appear to click: *Open Browser*.
+# Features #
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Existing features ###
+1.
 
-A blue button should appear to click: *Make Public*,
+### Future features ###
+1.
 
-Another blue button should appear to click: *Open Browser*.
+***
+Style and colors....
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Please see [mobile version](...) and [desktop version](.....) of wireframes.
 
-## Updates Since The Instructional Video
+# Technology used #
+- HTML 
+- CSS (the language to style HTML and make bootstrap more individual)
+- JavaScript
+- Balsamic framework (page layot)
+- Font Awesome
+- W3C school
+- W3C mark up validation service (to test HTML and CSS)
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+# Testing #
+- HTML and CSS have been tested with W3C mark up validation service and (both have been successfully passed - to be checked).
+- Live project's (responsiveness passed through the Google Developer tool - to be checked)
+- Project's responsiveness has been also manually checked on iPhone, Google Chrome, Microsoft Edge - to be checked
+- Feedback has been asked from friends, who interacted with the live project manually - to be checked
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## Testing user stories ##
+1. As a user, I would like to see clear instruction of the quiz.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+...
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+2. As a user, I would like to know if my answer is right.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+...
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+3. As a user, I would like to see my results in the end of quiz.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+...
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+4. As a user, I would like to be able to try again.
 
---------
+...
 
-Happy coding!
+### Issues ###
+
+
+# Deployment #
+### Managing Git ###
+
+### GitHub Pages ###
+I deploy my website in these following steps:
+
+### Cloning a repositary ###
+
+# Credits # 
+
+### Content ###
+The quiz questions been choosen from [Food and Drink Quiz Website](https://www.funquizzes.uk/food-and-drink-quiz/).
+
+### Media ###
+Images were taken from [Unsplash](https://unsplash.com/) website, where stored free high-resolution photos.
+
+### Acknowledgements ###
