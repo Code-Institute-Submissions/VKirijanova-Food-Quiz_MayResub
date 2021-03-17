@@ -20,7 +20,7 @@ h1 {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 #f3d9b1;
   transform: scale(1.02);
-  transform: transform 100ms;
+  
 }
 
 .option-prefix {
@@ -71,6 +71,7 @@ h1 {
 @media (min-width: 991.98px) {
   .container {
     margin-left: 5rem;
+
   }
   .option-container {
     font-size: 2rem;
