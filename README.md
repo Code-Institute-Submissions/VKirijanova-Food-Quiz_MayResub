@@ -1,37 +1,37 @@
 # Food Quiz #
 
-You need to eat food everyday to keep your body going. It is nice to know some interesting facts about food which is so necessary to grow, 
-play games and be healthy. Especially now with many of people spending the pandemic cooking up a storm in the kitchen.
+You need to eat food every day to keep your body going. It is nice to know some interesting facts about food which is so necessary to grow, 
+play games and be healthy. Especially now with many people spending the pandemic cooking up a storm in the kitchen.
 
 # UX #
 
 ## Strategy plane ##
-The aim of project is to create interactive website quiz that would be fully responsive on all devices and screens. The quiz will target 
-people 18+, who is intrested in food. It should be easy to use and fun to play.
+The aim of the project is to create an interactive website quiz that would be fully responsive on all devices and screens. The quiz will target 
+people 18+, who is interested in food. The website should be easy to use and that user would fully enjoy game.
 
 ## Scope plane ##
-Game will be styled in minimalistic design. Customers should easily use website with no dificulties and enjoy food quiz.
-You will be able to see straight away if answer is right or wrong and website will automatically redirect you to another question.
+The game will be styled in a minimalistic design. Customers should easily use a website with no difficulties and enjoy food quiz.
+You will be able to see straight away if the answer is right or wrong and the website will automatically redirect you to another question.
 
 ## Structure plane ##
-The website will be 3 pages. Welcome page will have name of game, start button and simple rule of only one answer available.
-With the press of start button customer will be taken to the game page. On the top will be question followed by 4 possible answers and progress bar in the bottom.
-After answering 10 questions, customer will be able to see their results, try to improve it one more time by clicking try again button or leave feedback in form below. 
+The website will be 3 pages. The welcome page will have the name of the game, start button and simple rule of only one answer available.
+With the press of the start button customer will be taken to the game page. On the top will be a question followed by 4 possible answers and a progress bar at the bottom.
+After answering 10 questions, the user will be able to see their results, try to improve it one more time by clicking try again button or leave feedback in form below. 
 
 ## Skeleton plane ##
-All website will be created in same design. On mobile version possible answers will be diplayed in rows, but for tablets
-and bigger screens possible answers will be displayed in 2 colums to take over whole screen.
+All website will be created in same design. On mobile version, possible answers will be displayed in rows, but for tablets
+and bigger screens, possible answers will be displayed in 2 columns to take over the whole screen.
 
 The wireframe for [mobile version](https://postimg.cc/grjSfCdP) and [desktop version](https://postimg.cc/N22x5wf9) of the food quiz.
 
 ## Surfuce plane ##
-Main background color will be purple. Purple color stimulate imagination and has the highest vibration in the visible spectrum.
-This color is perfect for attracting customers attention for this food quiz.
+Main background colour will be purple. Purple colour stimulate imagination and has the highest vibration in the visible spectrum.
+This colour is perfect for attracting customers attention for this food quiz.
 
 # User Stories: #
-1. As a user, I would like to see clear instruction of the quiz.
+1. As a user, I would like to see clear instruction for the quiz.
 2. As a user, I would like to know if my answer is right.
-3. As a user, I would like to see my results in the end of quiz.
+3. As a user, I would like to see my results at the end of the quiz.
 4. As a user, I would like to be able to try again.
 
 Mockup
@@ -43,15 +43,15 @@ The live version of projet you can see [here.](https://vkirijanova.github.io/Foo
 
 ### Existing features ###
 Website has a simple structure and minimalistic design.
-Buttons and answer options have hover effect for customers to see more clear what they are choosing.
-With JavaScript answer options has turn green color when answer is right and red color when answer is wrong.
+Buttons and answer options have hover effect for customers to see more clearly what they are choosing.
+With JavaScript, answer options have turn green colour when answer is right and red colour when answer is wrong.
 Once you answer question, website will load next question which will make customer experience more smooth.
-On last page score will be diplayed along with try again button. There is form below if customer feels like leaving
+On the last page score will be displayed along with try again button. There is form below if customer feels like leaving
 their feedback about game.
 
 
 ### Future features ###
-In the future would like to add usernames and hight score board, that frends could compete between each othre and 
+In the future would like to add usernames and hight scoreboard, that friends could compete with each other and 
 see who is best.
 
 
@@ -77,22 +77,22 @@ see who is best.
 - Feedback has been asked from friends, who interacted with the live project manually. Clear instruction of the game, easy to use, questions changing very smooth.  
 
 ## Testing user stories ##
-1. As a user, I would like to see clear instruction of the quiz.
+1. As a user, I would like to see clear instruction for the quiz.
 
-    First page is very clear of how to use game. The user can see note in the botton that there is only one possible
-    answer. As soon as start botton will be pressed, game will start.
+    First page is very clear about how to use the game. The user can see a note in the bottom that there is only one possible
+    answer. As soon as start button will be pressed, the game will start.
 
 2. As a user, I would like to know if my answer is right.
 
-    The user will see green color button if the answer will be right, otherwise button will turn red.
+    The user will see green colour button if the answer will be right, otherwise the button will turn red.
 
-3. As a user, I would like to see my results in the end of quiz.
+3. As a user, I would like to see my results at the end of the quiz.
 
-    The user will see results of the game as soon as he finish answering 10 questions.
+    The user will see results of the game as soon as he finishes answering 10 questions.
 
 4. As a user, I would like to be able to try again.
 
-    The user have try again button, which will direct him to begining of the game.
+    The user have to try again button, which will direct him to beginning of the game.
 
 ### Issues ###
 Wrong import link been copied in css file, spotted only during css validation 
