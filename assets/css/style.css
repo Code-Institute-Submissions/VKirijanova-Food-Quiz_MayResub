@@ -74,7 +74,6 @@ btn:disabled:hover {
 
 @media (min-width: 768px) {
   .container {
-    margin-left: 0.8rem;
     margin-top: 23rem;
   }
 
@@ -85,11 +84,7 @@ btn:disabled:hover {
 
 @media (min-width: 992px) {
   .container {
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-right: 5rem;
-    padding-top: 10rem;
-    padding-right: 5rem;
+      margin-top: 0;
   }
 
   .btn-secondary {
@@ -142,11 +137,10 @@ btn:disabled:hover {
         height: 10rem;
         display: block;
 }
-    .container {
-        padding-top: 6rem;
+   .container {
         padding-bottom: 8rem;
     }
-
+    
    .form-control {
        font-size:2rem;
        margin-bottom: 0;
