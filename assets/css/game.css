@@ -5,7 +5,7 @@ h1 {
   color: #f3f3f3;
   margin: 5rem 1rem;
 }
-.choice-container {
+.option-container {
   display: flex;
   background: #f3d9b1;
   border-radius: 4px;
@@ -13,17 +13,17 @@ h1 {
   height: 4rem;
   margin-bottom: 0.8rem;
 }
-.choice-container:hover {
+.option-container:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 #f3d9b1;
   transform: scale(1.02);
   transform: transform 100ms;
 }
-.choice-prefix {
+.option-prefix {
   padding: 1rem;
   color: #313b72;
 }
-.choice-text {
+.option-body {
   padding: 1rem;
   width: 100%;
   color: #313b72;
