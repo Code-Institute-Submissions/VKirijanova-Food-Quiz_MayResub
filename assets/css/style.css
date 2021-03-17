@@ -42,3 +42,9 @@ btn:disabled:hover {
   box-shadow: none;
   transform: none;
 }
+
+/* Form style */
+
+.center-form {
+  margin-top: 5rem;
+}
