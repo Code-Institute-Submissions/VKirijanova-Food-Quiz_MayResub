@@ -43,6 +43,29 @@ btn:disabled:hover {
   transform: none;
 }
 
+/* end page style */
+
+#end .row {
+  padding-top: 5rem;
+  height: 10rem;
+}
+
+#end .col {
+  height: fit-content;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  margin-right: 0;
+}
+
+.btn-secondary {
+  margin-bottom: 2rem;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #313b72;
+  background: linear-gradient(90deg, #f3d9b1 0%, #f3d9b1 100%);
+  border-radius: 4px;
+}
+
 /* Form style */
 
 .center-form {
