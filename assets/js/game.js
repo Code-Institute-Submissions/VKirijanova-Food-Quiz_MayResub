@@ -97,3 +97,64 @@ let questions = [
 
 const SCORE_POINT = 1;
 const MAX_QUESTIONS = 10;
+
+startGame = () => {
+  questionCounter = 0;
+  score = 0;
+  availableQuestions = [...questions];
+  getNewQuestion();
+};
+
+getNewQuestion = () => {
+  if (availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS) {
+    localStorage.setItem("mostRecentScore", score);
+    return window.location.assign("end.html");
+  }
+
+  questionCounter++;
+  progressText.innerText = `Question ${questionCounter} of ${MAX_QUESTIONS}`;
+  progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
+
+  const questionsIndex = Math.floor(Math.random() * availableQuestions.length);
+  currentQuestion = availableQuestions[questionsIndex];
+  question.innerText = currentQuestion.question;
+
+  options.forEach((option) => {
+    const number = option.dataset["number"];
+    option.innerText = currentQuestion["option" + number];
+  });
+
+  availableQuestions.splice(questionsIndex, 1);
+
+  acceptingAnswer = true;
+};
+
+options.forEach((option) => {
+  option.addEventListener("click", (e) => {
+    if (!acceptingAnswer) return;
+
+    acceptingAnswer = false;
+    const selectedoption = e.target;
+    const selectedAnswer = selectedoption.dataset["number"];
+
+    let classToApply =
+      selectedAnswer == currentQuestion.answer ? "correct" : "incorrect";
+
+    if (classToApply === "correct") {
+      incrementScore(SCORE_POINT);
+    }
+
+    selectedoption.parentElement.classList.add(classToApply);
+
+    setTimeout(() => {
+      selectedoption.parentElement.classList.remove(classToApply);
+      getNewQuestion();
+    }, 1000);
+  });
+});
+
+incrementScore = (num) => {
+  score += num;
+};
+
+startGame();
