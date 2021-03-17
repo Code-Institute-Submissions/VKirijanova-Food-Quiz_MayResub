@@ -79,6 +79,12 @@ h1 {
     padding-top: 1rem;
     border-radius: 3px;
   }
+  .option-prefix {
+  padding-bottom: 2rem;
+  font-size: 3rem;
+  color: #313b72;
+  text-align: center;
+}
   h1 {
     font-size: 2rem;
     padding-bottom: 2rem;
@@ -112,6 +118,14 @@ h1 {
     padding-top: 1.8rem;
     border-radius: 6px;
   }
+
+  .option-prefix {
+  padding-bottom: 2rem;
+  font-size: 3rem;
+  color: #313b72;
+  text-align: center;
+}
+
   h1 {
     font-size: 3rem;
     padding-bottom: 3rem;
