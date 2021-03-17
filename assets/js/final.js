@@ -22,7 +22,7 @@ function sendMail(contactForm) {
       },
       function (error) {
         console.log("FAILED", error);
-        window.alert("Oops! Something went wrong and we couldn't send your message!")
+        window.alert("Oops! Something went wrong and we couldn't send your message!");
       }
     );
   return false;
