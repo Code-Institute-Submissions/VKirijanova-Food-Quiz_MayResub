@@ -37,7 +37,7 @@ This colour is perfect for attracting customers attention for this food quiz.
 Mockup
 [![responsive.png](https://i.postimg.cc/ZqcxPJ1K/responsive.png)](https://postimg.cc/VSJtmPf3)
 
-The live version of projet you can see [here.](https://vkirijanova.github.io/Food-Quiz/)
+The live version of project you can see [here.](https://vkirijanova.github.io/Food-Quiz/)
 
 # Features #
 
@@ -51,7 +51,7 @@ their feedback about game.
 
 
 ### Future features ###
-In the future would like to add usernames and hight scoreboard, that friends could compete with each other and 
+In the future would like to add usernames and highest score, that friends could compete with each other and 
 see who is best.
 
 
@@ -59,7 +59,7 @@ see who is best.
 - HTML 
 - CSS (the language to style HTML and make bootstrap more individual)
 - JavaScript
-- Balsamic framework (page layot)
+- Balsamic framework (page layout)
 - Google Fonts
 - EmailJS API
 - Jshint
@@ -95,10 +95,10 @@ see who is best.
     The user have to try again button, which will direct him to beginning of the game.
 
 ### Issues ###
-Wrong import link been copied in css file, spotted only during css validation 
+Wrong import link has been copied in css file, spotted only during css validation 
 
-While doing responsivness on google development tool, website on iPad looked perfect, however when friend was
-cheking on iPad, website was a bit lower than expected. Couldn't find issue.
+While doing responsiveness on google development tool, website on iPad looked perfect, however when friend was
+cheking on iPad, website centering was a bit lower than expected. Couldn't find solution.
 
 HTML validation showed warning that script in final.html on line 13-16 in not required, however when tried 
 to to remove it, was not able to submit form. 
@@ -131,14 +131,11 @@ If you would like to clone a repositary follow theese steps:
 8. Press Enter.
 
 # Credits # 
-Project idea and JavaScript code comes from [Brian Design channel.](https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign)
-The script loader order for EmailJS API comes from the relative lesson from the Code Institute.
+- Project idea and JavaScript code comes from [Brian Design channel.](https://www.youtube.com/watch?v=f4fB9Xg2JEY&ab_channel=BrianDesign)
+- The script loader order for EmailJS API comes from the relative lesson from the Code Institute.
 
 ### Content ###
-The quiz questions been choosen from [Food and Drink Quiz Website](https://www.funquizzes.uk/food-and-drink-quiz/).
-
-### Media ###
-Images were taken from [Unsplash](https://unsplash.com/) website, where stored free high-resolution photos.
+The quiz questions have been chosen from [Food and Drink Quiz Website](https://www.funquizzes.uk/food-and-drink-quiz/).
 
 ### Acknowledgements ###
 My mentor Spencer Barriball for his support.
