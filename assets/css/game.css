@@ -81,6 +81,10 @@ h1 {
     width: 35rem;
     margin-left: 4rem;
   }
+
+  .hud-prefix {
+    margin-left: 4rem;
+  }
 }
 
 @media (min-width: 991.98px) {
