@@ -72,6 +72,17 @@ h1 {
   background: #f3d9b1;
 }
 
+
+@media (min-width: 768px) {
+  #progressBar {
+    border: 0.6rem;
+    border-radius: 30px;
+    height: 1.5rem;
+    width: 35rem;
+    margin-left: 4rem;
+  }
+}
+
 @media (min-width: 991.98px) {
   .container {
     margin-left: 5rem;
