@@ -135,39 +135,3 @@ btn:disabled:hover {
 
 }
 
-@media (min-width: 1199.98px) {
-    .btn-secondary {
-        padding: 2rem;
-        width: 20rem;
-        margin-top: 0rem;
-    }
-
-    #end .col {
-        font-size: 8rem;
-        height: fit-content;
-    }
-
-    #end .row {
-        padding-top: 0;
-        padding-bottom: 20rem;
-        margin-bottom: 5rem;
-        height: 10rem;
-        display: block;
-}
-   .container {
-        padding-bottom: 8rem;
-    }
-    
-   .form-control {
-       font-size:2rem;
-       margin-bottom: 0;
-       padding-bottom: 0;
-       
-   }
-
-    .center-form {
-        font-size: 10rem;
-    }
-}
-
-
