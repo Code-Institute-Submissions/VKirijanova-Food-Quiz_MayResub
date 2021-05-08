@@ -58,6 +58,7 @@ btn:disabled:hover {
   height: fit-content;
   margin-bottom: 2rem;
   font-size: 2rem;
+  font-weight: 800;
   margin-right: 0;
 }
 
