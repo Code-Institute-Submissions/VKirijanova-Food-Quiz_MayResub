@@ -110,15 +110,15 @@ btn:disabled:hover {
         margin-bottom: 7rem;
   }
   #end .col {
-        font-size: 4rem;
+        font-size: 8rem;
         height: fit-content;
     }
 
     #end .row {
         padding-top: 0;
-        padding-bottom: 10rem;
-        margin-bottom: 3rem;
-        height: 6rem;
+        padding-bottom: 20rem;
+        margin-bottom: 5rem;
+        height: 10rem;
         display: block;
     }
 
@@ -130,7 +130,7 @@ btn:disabled:hover {
    }
 
     .center-form {
-        font-size: 8rem;
+        font-size: 10rem;
     }
 
 }
