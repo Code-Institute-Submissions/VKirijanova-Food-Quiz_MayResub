@@ -166,11 +166,9 @@ h1 {
     margin-left: 12rem;
   }
   #progressBar {
-    border: 0.8rem solid #f3d9b1;
-    border-radius: 50px;
-    height: 3rem;
+    border: 0.8rem;
+    height: 2.5rem;
     width: 50rem;
-    overflow: hidden;
-    margin-left: 12rem;
+    margin-left: 6rem;
   }
 }
