@@ -13,8 +13,10 @@ body {
 
 h1 {
   color: #f3f3f3;
-  margin: 7rem 1rem;
+  margin: 2rem 2rem;
   text-align: center;
+  height: 6rem;
+  width: 21rem;
 }
 
 h3 {
