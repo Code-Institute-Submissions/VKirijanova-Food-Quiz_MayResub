@@ -78,7 +78,7 @@ btn:disabled:hover {
 
 @media (min-width: 768px) {
   .container {
-    margin-top: 23rem;
+    margin-top: 6.25rem;
   }
 
   .btn {
