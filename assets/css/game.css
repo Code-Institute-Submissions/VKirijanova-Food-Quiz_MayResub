@@ -161,9 +161,9 @@ h1 {
     width: 62.5rem;
   }
   .hud-prefix {
-    margin-top: 3rem;
-    font-size: 3rem;
-    margin-left: 12rem;
+    margin-top: 4rem;
+    font-size: 2rem;
+    margin-left: 6.5rem;
   }
   #progressBar {
     border: 0.8rem;
