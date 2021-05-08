@@ -88,6 +88,11 @@ btn:disabled:hover {
     font-size: 3rem;
   }
 
+  h1 {
+    height: 4rem;
+    width: 35rem;
+  }
+
   #end .col {
     font-size: 4rem;
   }
