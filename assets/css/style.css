@@ -85,6 +85,10 @@ btn:disabled:hover {
   .btn {
     font-size: 3rem;
   }
+
+  #end .col {
+    font-size: 4rem;
+  }
 }
 
 @media (min-width: 992px) {
