@@ -74,6 +74,11 @@ h1 {
 
 
 @media (min-width: 768px) {
+  .container {
+    width: 960px;
+    margin-top: 180px;
+  }
+  
   #progressBar {
     border: 0.6rem;
     border-radius: 30px;
