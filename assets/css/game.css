@@ -78,6 +78,14 @@ h1 {
     width: 960px;
     margin-top: 180px;
   }
+
+  h1 {
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    margin-top: 4rem;
+    margin-right: 4rem;
+    margin-left: 4rem;
+  }
   
   #progressBar {
     border: 0.6rem;
