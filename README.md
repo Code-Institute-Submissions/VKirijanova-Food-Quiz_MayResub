@@ -7,18 +7,18 @@ play games and be healthy. Especially now with many people spending the pandemic
 
 ## Strategy plane ##
 The aim of the project is to create an interactive website quiz that would be fully responsive on all devices and screens. The quiz will target 
-people 18+, who is interested in food. The website should be easy to use and that user would fully enjoy game.
+people 18+, who are interested in food. The website should be easy to use and that user would fully enjoy the game.
 
 ## Scope plane ##
-The game will be styled in a minimalistic design. Customers should easily use a website with no difficulties and enjoy food quiz. There is a brief instruction for the users about only one possible answer to questions. You will be able to see straight away if the answer is right or wrong, however if user guess wrong, he will require to complete quiz again to have another try. Website will automatically redirect you to another question, when question been answered. 
+The game will be styled in a minimalistic design. Customers should easily use a website with no difficulties and enjoy food quiz. There is a brief instruction for the users about only one possible answer to the questions. You will be able to see straight away if the answer is right or wrong, however if the user guess is wrong, he will require to complete quiz again to have another try. Website will automatically redirect you to another question, when question has been answered. 
 
 ## Structure plane ##
-The website will be 3 pages. The welcome page will have the name of the game, start button and simple rule of only one answer available.
+The website will be 3 pages. The welcome page will have the name of the game, start button and the simple rule of only one answer available.
 With the press of the start button customer will be taken to the game page. On the top will be a question followed by 4 possible answers and a progress bar at the bottom.
-After answering 10 questions, the user will be able to see their results, try to improve it one more time by clicking try again button or leave feedback in form below. 
+After answering 10 questions, the user will be able to see their results, try to improve it one more time by clicking try again button or leave feedback in the form below. 
 
 ## Skeleton plane ##
-All website will be created in same design. On mobile version, possible answers will be displayed in rows, but for tablets
+All website will be created in the same design. On mobile version, possible answers will be displayed in rows, but for tablets
 and bigger screens, possible answers will be displayed in 2 columns to take over the whole screen.
 
 The wireframe for [mobile version](https://postimg.cc/grjSfCdP) and [desktop version](https://postimg.cc/N22x5wf9) of the food quiz.
@@ -30,7 +30,7 @@ This colour is perfect for attracting customers attention for this food quiz.
 # User Stories: #
 1. As a user, I would like to see clear instruction for the quiz.
 2. As a user, I would like to know if my answer is right.
-3. As a user, I would like the challenge, which bring me back to website again.
+3. As a user, I would like the challenge, which brings me back to website again.
 4. As a user, I would like website to be inituitive, that I could start quiz with no difficulties.
 5. As a user, I would like to see my results at the end of the quiz.
 6. As a user, I would like to give feedback about the quiz.
@@ -47,8 +47,8 @@ The live version of project you can see [here.](https://vkirijanova.github.io/Fo
 Website has a simple structure and minimalistic design.
 Buttons and answer options have hover effect for customers to see more clearly what they are choosing.
 With JavaScript, answer options have turn green colour when answer is right and red colour when answer is wrong.
-Once you answer question, website will load next question which will make customer experience more smooth.
-On the last page score will be displayed along with try again button. There is form below if customer feels like leaving
+Once you answer question, website will load next question which will make the customer experience smoother.
+On the last page the score will be displayed along with the try again button. There is a form below if the customer feels like leaving
 their feedback about game.
 
 
@@ -92,26 +92,26 @@ see who is best.
 - Check if alert appeared after form been submited, to notify user that it been proceed or not.
 - Check if email been received after form been submited.
 - Check if buttom Try Again will re-direct you to quiz and count your score from zero.
-- All steps been proceed on iPhone, iPad and Dell XP13.
+- All the steps have been tested on iPhone, iPad and Dell XP13.
 
 ## Testing user stories ##
 
 1. As a user, I would like to see clear instruction for the quiz.
 
-    The user can see a note in the bottom of first page, there is only one possible answer. As soon as start button will be pressed, the game will start.
+    The user can see a note in the bottom of first page, there is only one possible answer. As soon as the start button will be pressed, the game will start.
 
 2. As a user, I would like to know if my answer is right.
 
     The user will see green colour button if the answer will be right, otherwise the button will turn red.
 
-3. As a user, I would like the challenge, which bring me back to website again.
+3. As a user, I would like the challenge, which brings me back to website again.
 
     User will not see right answer to the question, if his answer was wrong. It will keep user in tension to come back and try his
     strength again.
 
 4. As a user, I would like website to be inituitive, that I could start quiz with no difficulties.
 
-    The website been designed in minimalistic design, to not to overwhealm user.
+    The website been designed in minimalistic design, not to overwhelm the user.
 
 5. As a user, I would like to see my results at the end of the quiz.
 
