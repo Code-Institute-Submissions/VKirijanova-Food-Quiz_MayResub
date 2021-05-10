@@ -10,9 +10,8 @@ The aim of the project is to create an interactive website quiz that would be fu
 people 18+, who is interested in food. The website should be easy to use and that user would fully enjoy game.
 
 ## Scope plane ##
-The game will be styled in a minimalistic design. Customers should easily use a website with no difficulties and enjoy food quiz.
- You will be able to see straight away if the answer is right or wrong and the website will automatically redirect you to another question. 
- 
+The game will be styled in a minimalistic design. Customers should easily use a website with no difficulties and enjoy food quiz. There is a brief instruction for the users about only one possible answer to questions. You will be able to see straight away if the answer is right or wrong, however if user guess wrong, he will require to complete quiz again to have another try. Website will automatically redirect you to another question, when question been answered. 
+
 ## Structure plane ##
 The website will be 3 pages. The welcome page will have the name of the game, start button and simple rule of only one answer available.
 With the press of the start button customer will be taken to the game page. On the top will be a question followed by 4 possible answers and a progress bar at the bottom.
