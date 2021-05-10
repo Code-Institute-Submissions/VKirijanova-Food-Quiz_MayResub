@@ -24,7 +24,7 @@ and bigger screens, possible answers will be displayed in 2 columns to take over
 
 The wireframe for [mobile version](https://postimg.cc/grjSfCdP) and [desktop version](https://postimg.cc/N22x5wf9) of the food quiz.
 
-## Surfuce plane ##
+## Surface plane ##
 Main background colour will be purple. Purple colour stimulate imagination and has the highest vibration in the visible spectrum.
 This colour is perfect for attracting customers attention for this food quiz.
 
