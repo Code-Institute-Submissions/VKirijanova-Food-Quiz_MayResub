@@ -106,8 +106,14 @@ btn:disabled:hover {
 
 @media (min-width: 992px) {
   .container {
-      margin-top: 5rem;
+      margin-top: 11rem;
       padding-bottom: 8rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-left: 23rem;
+    margin-bottom: 5rem;
   }
 
   .btn-secondary {
