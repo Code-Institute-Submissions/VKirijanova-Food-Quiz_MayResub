@@ -123,14 +123,14 @@ btn:disabled:hover {
         margin-bottom: 7rem;
   }
   #end .col {
-        font-size: 8rem;
-        height: fit-content;
+        font-size: 6rem;
     }
 
     #end .row {
         padding-top: 0;
-        padding-bottom: 20rem;
+        padding-bottom: 15rem;
         margin-bottom: 5rem;
+        margin-right: 45rem;
         height: 10rem;
         display: block;
     }
