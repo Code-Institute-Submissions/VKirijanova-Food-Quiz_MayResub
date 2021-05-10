@@ -78,21 +78,50 @@ see who is best.
 - Project's responsiveness has been also manually checked on iPhone, Google Chrome, Microsoft Edge
 - Feedback has been asked from friends, who interacted with the live project manually. Clear instruction of the game, easy to use, questions changing very smooth.  
 
+## Manual testing ##
+- Check if all instructions are clear on first page.
+- Click Start button and checked if it will take me to the quiz.
+- Check if questions depending on size, do not push answer down or up the page
+- Check if right answer is highlighted green and wrong answer red.
+- Check if progress bar adjusting along with questions.
+- Check if "x Question out of 10" updated right number depending on which question you are.
+- Check if score is right, after intentianally answering certain amount of questions right.
+- Check if you can type your name in Name field on contact form.
+- Check if email field recognice email format and show error if different format entered.
+- Check if form ask you to fill all field before pressing Send buttom.
+- Check if alert appeared after form been submited, to notify user that it been proceed or not.
+- Check if email been received after form been submited.
+- Check if buttom Try Again will re-direct you to quiz and count your score from zero.
+- All steps been proceed on iPhone, iPad and Dell XP13.
+
 ## Testing user stories ##
+
 1. As a user, I would like to see clear instruction for the quiz.
 
-    First page is very clear about how to use the game. The user can see a note in the bottom that there is only one possible
-    answer. As soon as start button will be pressed, the game will start.
+    The user can see a note in the bottom of first page, there is only one possible answer. As soon as start button will be pressed, the game will start.
 
 2. As a user, I would like to know if my answer is right.
 
     The user will see green colour button if the answer will be right, otherwise the button will turn red.
 
-3. As a user, I would like to see my results at the end of the quiz.
+3. As a user, I would like the challenge, which bring me back to website again.
+
+    User will not see right answer to the question, if his answer was wrong. It will keep user in tension to come back and try his
+    strength again.
+
+4. As a user, I would like website to be inituitive, that I could start quiz with no difficulties.
+
+    The website been designed in minimalistic design, to not to overwhealm user.
+
+5. As a user, I would like to see my results at the end of the quiz.
 
     The user will see results of the game as soon as he finishes answering 10 questions.
 
-4. As a user, I would like to be able to try again.
+6. As a user, I would like to give feedback about the quiz.
+
+    The contact form is provided on the last page with space to write feedback about the quiz.
+
+7. As a user, I would like to be able to try again.
 
     The user have to try again button, which will direct him to beginning of the game.
 
