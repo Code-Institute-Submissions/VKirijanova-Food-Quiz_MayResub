@@ -11,8 +11,8 @@ people 18+, who is interested in food. The website should be easy to use and tha
 
 ## Scope plane ##
 The game will be styled in a minimalistic design. Customers should easily use a website with no difficulties and enjoy food quiz.
-You will be able to see straight away if the answer is right or wrong and the website will automatically redirect you to another question.
-
+ You will be able to see straight away if the answer is right or wrong and the website will automatically redirect you to another question. 
+ 
 ## Structure plane ##
 The website will be 3 pages. The welcome page will have the name of the game, start button and simple rule of only one answer available.
 With the press of the start button customer will be taken to the game page. On the top will be a question followed by 4 possible answers and a progress bar at the bottom.
@@ -31,8 +31,11 @@ This colour is perfect for attracting customers attention for this food quiz.
 # User Stories: #
 1. As a user, I would like to see clear instruction for the quiz.
 2. As a user, I would like to know if my answer is right.
-3. As a user, I would like to see my results at the end of the quiz.
-4. As a user, I would like to be able to try again.
+3. As a user, I would like the challenge, which bring me back to website again.
+4. As a user, I would like website to be inituitive, that I could start quiz with no difficulties.
+5. As a user, I would like to see my results at the end of the quiz.
+6. As a user, I would like to give feedback about the quiz.
+7. As a user, I would like to be able to try again.
 
 Mockup
 [![responsive.png](https://i.postimg.cc/ZqcxPJ1K/responsive.png)](https://postimg.cc/VSJtmPf3)
